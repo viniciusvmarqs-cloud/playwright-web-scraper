@@ -1,2 +1,9 @@
-# playwright-web-scraper
-Web scraping project using Playwright, Pandas and Excel export
+# Playwright Web Scraper
+
+Python project that scrapes product data and exports it to Excel.
+
+## Technologies
+- Python
+- Playwright
+- Pandas
+- OpenPyXL
