@@ -69,5 +69,3 @@ with pd.ExcelWriter(arquivo,engine="openpyxl") as writer:
                     ws.column_dimensions[col_letter].width=max(max_len+4,12)
 print(f"\nSucesso! O arquivo foi gerado e os livros foram divididos por abas.")
 print(f"Verifique o arquivo criado: '{arquivo}'")
-
-
