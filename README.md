@@ -12,3 +12,9 @@ Python project that scrapes book data from Books to Scrape using Playwright and 
 - Web scraping automation
 - Product data extraction
 - Excel export
+
+## Output
+The script generates an Excel spreadsheet with:
+- Book title
+- Price
+- Rating
